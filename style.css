@@ -34,6 +34,9 @@
                 border: 5px double white;
                 text-align: center;
             }
+            .semimg {
+                padding: 10px;
+            }
             .sign_name {
                 border: solid gray;
                 text-align: center;
